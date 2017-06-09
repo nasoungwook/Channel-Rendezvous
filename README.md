@@ -1,11 +1,10 @@
 # Channel-Rendezvous
-
-  ■ 체널 랑데부 프로그램 개요
-    1. 채널의 개수 선택
-    2. SEQ-R 및 DRSEQ 시퀸스 출력
-    3. SER-R 및 DRSEQ의 start time에서 end time까지의 시간
-    rendezvous time 1000회를 측정 및 출력
-    4. 평균 만나는데 걸리는 시간 각각 출력
+  
+  ■ 랑데부 프로그램 개요
+      1. 채널의 개수 선택
+      2. SEQ-R 및 DRSEQ 시퀸스 출력
+      3. SER-R 및 DRSEQ의 start time에서 end time까지의 시간 rendezvous time 1000회를 측정 및 출력
+      4. 평균 만나는데 걸리는 시간 각각 출력
 
   ■ 구현한 클레스 설명
   
