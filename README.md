@@ -1,5 +1,5 @@
 # Channel-Rendezvous
-채널 랑데부
+
   ■ 체널 랑데부 프로그램 개요
     1. 채널의 개수 선택
     2. SEQ-R 및 DRSEQ 시퀸스 출력
